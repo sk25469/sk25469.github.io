@@ -70316,7 +70316,7 @@ $1(a){return this.RY(a)},
 $S:18}
 A.YY.prototype={
 $0(){var s=this.b
-if(this.a.d)s.$1("https://drive.google.com/file/d/1-A53YpEvsTg2gLTDv2IWkptkxLvjH4MV/view?usp=sharing")
+if(this.a.d)s.$1("https://drive.google.com/file/d/11N33jYWOL50wWH2GRCYN1usYD0v2zgTb/view?usp=sharing")
 else s.$1("https://github.com/sk25469?tab=repositories")},
 $S:0}
 A.Ij.prototype={
